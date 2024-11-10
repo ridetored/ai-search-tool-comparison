@@ -2,6 +2,8 @@
 
 This project contains a Python script that tests responses from various AI search tools (e.g., ChatGPT, Google Bard, Perplexity AI) by sending queries and saving their responses to a CSV file. This is particularly useful for comparing the output of different AI tools for SEO or research purposes.
 
+For a comprehensive guide on the top AI search engines available today, check out our article: [Top AI Search Engines of 2024](https://seo4one.com/ai-search-engines/top-ai-search-engines-of-2024-complete-guide).
+
 ## Features
 
 - Send predefined queries to multiple AI search tools.
